@@ -44,7 +44,7 @@ a:hover .fa-brands{
 
 @keyframes bounce {
     0%, 100% {
-        transform: translateY(0);
+        transform: translateY(0px);
     }
     50% {
         transform: translateY(-10px);
@@ -52,17 +52,17 @@ a:hover .fa-brands{
 }
 
 .fa-whatsapp {
-    --color: green;
+    --color: #25D366;
 }
 
 .fa-tiktok {
-    --color: red;
+    --color: #FE2C55;
 }
 
 .fa-instagram {
-    --color: rgb(253, 111, 182);
+    --color:  #feda75;
 }
 
 .fa-x-twitter {
-    --color: rgb(0, 68, 255);
+    --color: #1DA1F2;
 }
