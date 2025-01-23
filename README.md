@@ -11,7 +11,7 @@ A simple and stylish implementation of social media buttons using HTML and CSS. 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/social-media-buttons.git
+   git clone https://github.com/VicegerentPrince/Neon-Social-Media-Buttons.git
    ```
 2. Open the `index.html` file in your browser.
 3. Customize the links in the HTML file to point to your social media profiles.
